@@ -13,7 +13,7 @@ function setup() {
 	var board=document.getElementById("board");
 	board.innerHTML=welcome;
 	code=setCode(colors);
-		
+	
     buttonElement.onclick = function () {
 		var dropdown = document.getElementById("colors");
 		console.log(dropdown.value);
