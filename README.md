@@ -1,1 +1,1 @@
-# mastermind
+# web-mastermind
